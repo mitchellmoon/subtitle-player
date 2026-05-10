@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/language-Kotlin-7F52FF" />
   <img src="https://img.shields.io/badge/status-released-success" />
 </p>
-
+[V6 진행도 상세보기](./V6_progress.md)
 ---
 
 ## 핵심 기능
