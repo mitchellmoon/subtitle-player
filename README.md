@@ -1,8 +1,11 @@
 # Subtitle Player
+# Subtitle Player
 
 > 스트리밍 영상 위에 자막 파일을 플로팅 오버레이로 띄우는 Android 앱
 
 자막은 인터넷에 있고 영상은 OTT/스트리밍에 있는데, 둘을 연결하는 모바일 도구가 없었다. PC 크롬 확장 외에는 경쟁 도구 부재. 5일 만에 V0→V5까지 6번 반복 검증해 원스토어 출시 완료.
+
+**🚧 현재 V6 글로벌 출시 준비 중 →** [V6 진행도](./V6_progress.md)
 
 <p>
   <img src="https://img.shields.io/badge/version-5.0-FE6951" />
