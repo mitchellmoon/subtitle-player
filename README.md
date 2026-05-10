@@ -175,6 +175,8 @@ OnboardingActivity ─→ MainActivity ─→ PermissionGuideActivity
 
 V5는 한국 출시에 특화돼 있었다. V6는 6개국 시장 진입을 위해 무국가적 UX로 재설계.
 
+→ [V6 진행도 상세보기](./V6_progress.md)
+
 | 항목 | 변경 |
 |------|------|
 | **오버레이 메뉴** | 한국어 버튼 → 아이콘화 (⏮ 📋 ← ⏻) |
